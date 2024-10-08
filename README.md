@@ -1,4 +1,4 @@
-# landing page - Zingen - Karaokê
+# Landing page - Zingen - Karaokê
 ____
 
 ### Criação de uma landing page com design responsivo!
