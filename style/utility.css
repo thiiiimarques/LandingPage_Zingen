@@ -1,15 +1,19 @@
+/* padding eixo y - base */
 .py-base{
   padding-block: var(--py-base);
 }
 
+/* padding eixo y - largo */
 .py-lg{
   padding-block: var(--py-lg);
 }
 
+/* padding eixo y - extralargo */
 .py-xl{
   padding-block: var(--py-xl);
 }
 
+/* padding eixo x - largo */
 .px-lg{
   padding-inline: var(--px-lg);
 }
