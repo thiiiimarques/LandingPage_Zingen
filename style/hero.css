@@ -10,7 +10,7 @@
   }
 
   & p{
-    font: var(--fw-md) var(--fs-lg)/1.4 var(--ff-sans);
+    font: var(--fw-md) var(--fs-lg)/1.4 var(--font-family);
     color: var(--text-color-secondary);
     margin-top: .5rem;
   }
